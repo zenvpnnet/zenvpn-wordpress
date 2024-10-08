@@ -1,0 +1,16 @@
+{
+  "name": "wp",
+  "version": "1.0.0",
+  "description": "URL: https://teamstest.zenvpn.net\r access-token: from your account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  }
+}
